@@ -1,7 +1,7 @@
 # jsplumb-flowchart
 #### 基于jsplumb和vue的可视化流程编辑工具
 
-![jsplumb-flowchart](https://github.com/tuchongyang/jsplumb-flowchart/blob/master/src/assets/images/screeshot.png?raw=true)
+![jsplumb-flowchart](https://github.com/tuchongyang/jsplumb-flowchart/blob/master/src/assets/images/sceenshot.png?raw=true)
 
 ## Usage
 ``` bash
